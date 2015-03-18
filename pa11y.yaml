@@ -1,5 +1,6 @@
 urls:
-- google.com
+- codefordc.org
 - ancfinder.org
 
-depth: 2
+crawler:
+  interval: 5000

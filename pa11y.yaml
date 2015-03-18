@@ -6,3 +6,7 @@ crawler:
   interval: 500
   maxConcurrency: 3
   depth: 2
+
+pa11y:
+  standard: "WCAG2A"
+  timeout: 60000

@@ -3,4 +3,5 @@ urls:
 - ancfinder.org
 
 crawler:
-  interval: 5000
+  interval: 500
+  maxConcurrency: 3

@@ -5,3 +5,4 @@ urls:
 crawler:
   interval: 500
   maxConcurrency: 3
+  depth: 2

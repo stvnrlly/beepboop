@@ -1,0 +1,15 @@
+{
+  "name": "beepboop",
+  "version": "0.1.0",
+  "description": "beep boop",
+  "main": "app.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "stvnrlly",
+  "license": "CC0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:stvnrlly/beepboop.git"
+  }
+}

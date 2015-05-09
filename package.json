@@ -4,7 +4,7 @@
   "description": "beep boop",
   "main": "app.js",
   "scripts": {
-    "test": "test.js"
+    "test": "./test.js"
   },
   "author": "stvnrlly",
   "license": "CC0",
